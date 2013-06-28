@@ -1,0 +1,4 @@
+smart-criteria
+==============
+
+Smart criteria
